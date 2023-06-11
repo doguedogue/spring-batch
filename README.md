@@ -2,7 +2,7 @@
 
 - Java >= 8
 - Maven
-- IntelliJ
+- IntelliJ IDEA Com
 - MySQL
 
 <hr>
