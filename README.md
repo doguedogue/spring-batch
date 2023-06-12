@@ -3,7 +3,7 @@
 - Java >= 8
 - Maven
 - IntelliJ IDEA Com
-- MySQL
+- MySQL (Docker)
 
 <hr>
 
